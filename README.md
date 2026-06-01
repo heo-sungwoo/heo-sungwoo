@@ -35,10 +35,10 @@ DB 설계부터 머신러닝 예측까지 — 3개 프로젝트로 증명한 데
 
 - **역할**: Data Analyst — DB 통합 · 공시지가 공간조인 · 밀집도 모델 · LLM 재료 준비
 - **데이터**: 서울 공공데이터 13종 · 425행정동 · 32업종 · 20분기
-- **핵심 결과물**: 196컬럼 × 10,290행 마스터 테이블 / 동적 반경 밀집도 모델(kakao_density_V05)
+- **핵심 결과물**: 196컬럼 × 10,290행 마스터 테이블 / 동적 반경 밀집도 모델
 - **Stack**: `Oracle DB` `Python` `AutoGluon` `LightGBM` `Kakao API` `LangChain`
 
-<!-- [📁 Repository 링크 추가 예정] -->
+📁 [Repository 바로가기](https://github.com/heo-sungwoo/fimfy-local-fund)
 
 ---
 
@@ -50,7 +50,7 @@ DB 설계부터 머신러닝 예측까지 — 3개 프로젝트로 증명한 데
 - **구조**: Model 0~4 + Meta Model (잔차 학습 + Gamma 최적화)
 - **Stack**: `Python` `AutoGluon` `LightGBM` `XGBoost` `CatBoost` `Walk-Forward CV`
 
-<!-- [📁 Repository 링크 추가 예정] -->
+📁 [Repository 바로가기](https://github.com/heo-sungwoo/color-commerce-ml)
 
 ---
 
@@ -59,21 +59,21 @@ DB 설계부터 머신러닝 예측까지 — 3개 프로젝트로 증명한 데
 
 - **역할**: 주제 제안자 · 마스터 테이블 10+개 설계 · 분석 쿼리 45개 작성
 - **핵심 기여**: 매칭 알고리즘 아이디어 제안 / 파양 위험 패턴 탐지 → 정책 제안
-- **인사이트**: Top10 추천 견종 70~100% 계약 전환율 확인 / 고위험 조합(대형견×원룸) 2.11% 유지율
+- **인사이트**: Top10 추천 견종 70~100% 계약 전환율 / 대형견×원룸 유지율 2.11%
 - **Stack**: `Oracle DB` `SQL` `ERD 설계`
 
-<!-- [📁 Repository 링크 추가 예정] -->
+📁 [Repository 바로가기](https://github.com/heo-sungwoo/stray-dog-matching-db)
 
 ---
 
 ## 📄 Portfolio
 
-> 📥 **[포트폴리오 PDF 다운로드](#)** ← 링크 추가 예정
+> 📥 **[포트폴리오 PDF 다운로드](#)** ← 추후 링크 추가 예정
 
 ---
 
 ## 📬 Contact
 
-- **Email**: <!-- 이메일 주소 -->
+- **Email**: simel5730@naver.com
 - **Phone**: 010-5451-2761
 - **Location**: 서울시 금천구 가산동
