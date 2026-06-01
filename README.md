@@ -64,13 +64,7 @@ DB 설계부터 머신러닝 예측까지 — 3개 프로젝트로 증명한 데
 
 📁 [Repository 바로가기](https://github.com/heo-sungwoo/stray-dog-matching-db)
 
----
 
-## 📄 Portfolio
-
-> 📥 **[포트폴리오 PDF 다운로드](#)** ← 추후 링크 추가 예정
-
----
 
 ## 📬 Contact
 
